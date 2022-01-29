@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: "Roboto", sans-serif;
+}
+
+header .container {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/*# sourceMappingURL=style.css.map */
